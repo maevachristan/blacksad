@@ -1,0 +1,47 @@
+.enter-story {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 354px;
+}
+
+.follow-steps {
+    align-items: baseline;
+    display: flex;
+    gap: 70px;
+}
+
+.step-by {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Orange Typewriter';
+    font-size: 21px;
+    font-weight: 400;
+    text-align: center;
+    width: 50%;
+}
+
+.step-by img {
+    margin-bottom: 45px;
+    max-width: 80px;
+}
+
+.story-button {
+    border: 1px solid #f8e632;
+    border-radius: 4px;
+    box-shadow: 0 0 15px #f8e632;
+    color: #ffffff;
+    font-family: 'Overpass';
+    font-size: 23px;
+    font-weight: 200;
+    letter-spacing: 0.72px;
+    margin-top: 76px;
+    padding: 11px 21px;
+    width: 255px;
+}
+
+.story-button:hover {
+    background-color: #f8e632;
+    color: #000000;
+}
