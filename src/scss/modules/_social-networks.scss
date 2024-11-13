@@ -1,0 +1,24 @@
+.social-networks {
+    display: flex;
+    justify-content: space-between;
+}
+
+.facebook, .instagram, .x-twitter, .youtube {
+    fill: #ffffff;
+}
+
+.facebook:hover {
+    fill: #f8e632;
+}
+
+.instagram:hover {
+    fill: #f8e632;
+}
+
+.x-twitter:hover {
+    fill: #f8e632;
+}
+
+.youtube:hover {
+    fill: #f8e632;
+}
