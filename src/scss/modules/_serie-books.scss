@@ -1,0 +1,17 @@
+.serie-books {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 33px;
+}
+
+.serie-books a {
+    font-family: 'Overpass';
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 24px;
+    letter-spacing: 0.48px;
+}
+
+.serie-books a:hover {
+    color: #f8e632;
+}
