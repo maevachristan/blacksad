@@ -1,0 +1,20 @@
+.shopping {
+    display: flex;
+}
+
+.buy-button {
+    border: 1px solid #f8e632;
+    border-radius: 4px;
+    color: #ffffff;
+    font-family: 'Overpass';
+    font-size: 24px;
+    font-weight: 200;
+    letter-spacing: 0.72px;
+    margin: 48px 25px 0 0;
+    padding: 11px 21px;
+}
+
+.buy-button:hover {
+    background-color: #f8e632;
+    color: #000000;
+}
